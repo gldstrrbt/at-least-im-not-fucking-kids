@@ -1,0 +1,9 @@
+# User-generated submissions and local runtime data
+sins.txt
+*.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
